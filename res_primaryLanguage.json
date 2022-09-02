@@ -81,6 +81,24 @@
             "name": "React"
           }
         ]
+      },
+      {
+        "title": "VideoFond",
+        "description": "A Streaming Platform",
+        "images": [
+          "images/portfolio/videofond/p1.png"
+        ],
+        "url": "https://videofond.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-materialui-plain",
+            "name": "Material UI"
+          }
+        ]
       }
     ],
     "experience": [
