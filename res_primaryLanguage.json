@@ -35,6 +35,24 @@
         ]
       },
       {
+        "title": "Walmart Split",
+        "description": "An easy way to add the walmart expenses to splitwise",
+        "images": [
+          "images/portfolio/walmartsplit/p1.png"
+        ],
+        "url": "https://walmartsplit.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          }
+        ]
+      },
+      {
         "title": "Beatful - A Music Player",
         "description": "Music Player Ability to play, pause the song Change to the next or previous song using the buttons. Skip to a specific timeline in the song using the seek bar.",
         "images": [
@@ -65,20 +83,6 @@
           {
             "class": "devicon-redux-original",
             "name": "Redux"
-          }
-        ]
-      },
-      {
-        "title": "yourKart - E-Commerce",
-        "description": "Phone Store.Paypal integration",
-        "images": [
-          "images/portfolio/yourKart/p1.png"
-        ],
-        "url": "https://your-kart.netlify.app/",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
           }
         ]
       },
